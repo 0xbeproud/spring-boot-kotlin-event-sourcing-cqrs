@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: cqrs-api
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+
+axon:
+  serializer:
+    general: xstream
+  axonserver:
+    servers: localhost:8124
+
+logging:
+  level:
+    org.axonframework: debug
+    com.nnobs: debug
