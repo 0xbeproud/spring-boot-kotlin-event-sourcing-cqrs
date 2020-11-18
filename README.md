@@ -11,14 +11,14 @@ docker run --rm \
 ```
 
 - Axon Dashboard
-![axonserver-dashboard](image/image1.png)
+![axonserver-dashboard](./image/image1.png)
 
 - Axon Dashboard overview
-![axonserver-dashboard-overview](image/image2.png)
+![axonserver-dashboard-overview](./image/image2.png)
 
 
 ### spring boot 실행
-![spring-boot](image/image3.png)
+![spring-boot](./image/image3.png)
 
 ### api.http 실행
 [api-http](src/main/kotlin/com/nnobs/api/api.http)
@@ -47,5 +47,5 @@ Response code: 200; Time: 450ms; Content length: 36 bytes
 ```
 
 - Axon Dashboard search
-![axonserver-dashboard-search](image/image4.png)
+![axonserver-dashboard-search](./image/image4.png)
 
