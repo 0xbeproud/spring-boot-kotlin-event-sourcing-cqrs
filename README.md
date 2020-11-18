@@ -1,5 +1,7 @@
 # Event Sourcing + CQRS
 
+평소에 관심을 가지고 있던 Event Sourcing + CQRS를 구현중.
+
 ### Axon server 실행 
 
 ```bash
