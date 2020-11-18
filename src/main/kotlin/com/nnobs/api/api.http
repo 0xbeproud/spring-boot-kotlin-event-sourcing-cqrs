@@ -6,7 +6,7 @@ Content-Type: application/json
   "email": "logan!!!!!k@gmail.com"
 }
 
-### 회원 조회
+### 이벤트 조회
 GET http://localhost:8080/users/ea33885a-0b24-4e26-869d-d34b0f530c0c
 Content-Type: application/json
 

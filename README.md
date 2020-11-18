@@ -1,8 +1,16 @@
 # Event Sourcing + CQRS
 
-평소에 관심을 가지고 있던 Event Sourcing + CQRS를 구현중.
+평소에 관심을 가지고 있던 Event Sourcing + CQRS를 구현중(잠시 보류).
+
+참고: https://cla9.tistory.com/2?category=814447
+
+- Command 부분만 구현(snapshot은 구현하지 않음).
+- Query는 추후에 구현 예정
+- 기존에 데이터를 저장하던 방식과 많이 다르고 이벤트를 어떻게 가져가야 고민을 많이 해봐야 할듯.
 
 ### Axon server 실행 
+
+원할한 테스트를 위해 dev mode 설정
 
 ```bash
 docker run --rm \
