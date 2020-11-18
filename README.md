@@ -11,16 +11,20 @@ docker run --rm \
 ```
 
 - Axon Dashboard
+
 ![axonserver-dashboard](./image/image1.png)
 
 - Axon Dashboard overview
+
 ![axonserver-dashboard-overview](./image/image2.png)
 
 
 ### spring boot 실행
+
 ![spring-boot](./image/image3.png)
 
 ### api.http 실행
+
 [api-http](src/main/kotlin/com/nnobs/api/api.http)
 
 ```http request
